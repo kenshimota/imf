@@ -1,0 +1,86 @@
+body
+{
+	background: #ddd;
+	margin : 0px;
+}
+
+.listItems
+{
+	background-image: url('../img/list.png');
+	background-position: left;
+	background-size: 16px;
+}
+
+.newItems
+{
+	background-image: url('../img/add.png');
+	background-position: left;
+	background-size: 16px;
+}
+
+.thumb-wrap
+{
+	padding: 10px;
+	background: #99bce8;
+	border: 1px solid blue;
+	border-radius: 10px;
+}
+
+.thumb-wrap div
+{
+	padding: 5px;
+	text-align: center;
+}
+
+.thumb-wrap div span
+{
+	display: inline;
+}
+
+.thumb-wrap div #index
+{
+	width: 100px;
+	text-align: right;
+	height: 100%;
+}
+
+.thumb-wrap div #show
+{
+	width: 200px;
+	text-align: left;
+	height: 200%;
+	background: #fff;
+	color: #444 ;
+}
+
+.thumb-wrap div #show #type
+{
+	color : #666;
+}
+.saveItems
+{
+	background-image: url('../img/save.png');
+	background-position: left;
+	background-size: 16px;
+}
+
+.updateItems
+{
+	background: url('../img/edit.png');
+	background-position: left;
+	background-size: 16px;
+}
+
+.userProfile-16-26
+{
+	background: url('../img/imf.png');
+	background-position: left;
+	background-size: 16px;
+}
+
+.deleteItems
+{
+	background: url('../img/delete.png');
+	background-position: left;
+	background-size: 16px;
+}
